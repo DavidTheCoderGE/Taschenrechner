@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Taschenrechner">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Taschenrechner/out/artifacts/Taschenrechner_jar/Taschenrechner.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
